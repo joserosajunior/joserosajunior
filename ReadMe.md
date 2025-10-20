@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖Estudante de ADS<br>💻Desenvolvedor Backend<br>🖥Apaixonado por Tecnologia <br>🤓Nerd<br>
+🤖Formado em ADS<br> 💻Cursando Ciência da Computação <br>💻Desenvolvedor Backend<br>🖥Apaixonado por Tecnologia <br>🤓Nerd<br>
 
 
 ## 🌐 Socials:
