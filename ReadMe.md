@@ -1,18 +1,31 @@
-# 💫 About Me:
-🤖Formado em ADS<br> 💻Cursando Engenharia de Software <br>Analista de Dados>🖥Apaixonado por Tecnologia <br>🤓Nerd<br>
+# Olá, eu sou o José Rosa 👋
 
+Profissional focado em **Análise de Dados**, combinando uma base sólida em tecnologia e desenvolvimento de software com a capacidade de transformar dados brutos em insights estratégicos para a tomada de decisão.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/joserosajunior_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-rosa-junior-94a7331a4/) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![HIBERNATE](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=joserosajunior&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=joserosajunior&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joserosajunior&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas (ADS)
+- 🚀 Graduando em Engenharia de Software
+- 📊 Especializando-me em: Excel, SQL, Python e Power BI
 
 ---
-[![](https://visitcount.itsvg.in/api?id=joserosajunior&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌐 Conecte-se comigo:
+<div>
+  <a href="https://www.linkedin.com/in/joserosajunior1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+  </a>
+</div>
+
+---
+
+### 🛠️ Minha Stack de Dados
+<div>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/SQL-003B5C?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30"/>
+</div>
+
+---
+
+
+
